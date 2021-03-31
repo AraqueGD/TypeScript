@@ -1,3 +1,3 @@
 # Introduction to TypeScript
 
-![img](resources/typescript.png)
+![img](./resources/typescript.png)
